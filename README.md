@@ -1,2 +1,2 @@
 # website
-this sis my website
+this is my website
